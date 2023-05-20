@@ -2,6 +2,11 @@
 Me chamo Marcos Vinícius, atualmente moro no Brasil, e estudo Ciências da Computação pela Universidade Federal de Campina Grande.
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcosfragoso&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <div align="center">
   <a href="https://github.com/marcosfragoso">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosfragoso&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -9,7 +14,15 @@ Me chamo Marcos Vinícius, atualmente moro no Brasil, e estudo Ciências da Comp
   
 </div>
 
+<br>
+<div align="center"> 
+<a href="https://instagram.com/marcosvfo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.fragoso.ufcg@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-vinicius-fragoso-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
 ---
+
 ## Skills
   <p align="center">
 
@@ -22,8 +35,8 @@ Me chamo Marcos Vinícius, atualmente moro no Brasil, e estudo Ciências da Comp
   </p>
 
 ---
-<div align="center"> 
-<a href="https://instagram.com/marcosvfo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.fragoso.ufcg@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcos-vinicius-fragoso-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosfragoso}/count.svg" /></p> 
+<br>
+</div>

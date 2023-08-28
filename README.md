@@ -1,7 +1,7 @@
 # Olá 👋
 Me chamo Marcos Vinícius, atualmente moro no Brasil, e estudo Ciência da Computação pela Universidade Federal de Campina Grande.
 
-https://marcosvinicius.netlify.app/
+[https://marcosvinicius.netlify.app/](https://marcosfragoso.github.io/web-curriculum/)
 
 ---
 

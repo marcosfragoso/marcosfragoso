@@ -9,12 +9,7 @@ https://marcosfragoso.github.io/web-curriculum/
   <img src="https://github-profile-trophy.vercel.app/?username=marcosfragoso&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/marcosfragoso">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosfragoso&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="150em" width = "450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfragoso&layout=compact&langs_count=7&theme=dark"/>
-  
-</div>
+
 
 <br>
 <div align="center"> 

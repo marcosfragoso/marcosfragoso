@@ -1,5 +1,4 @@
-# Olá 👋
-Me chamo Marcos Vinícius, atualmente moro no Brasil, e estudo Ciência da Computação pela Universidade Federal de Campina Grande.
+
 
 https://marcosfragoso.github.io/web-curriculum/
 
